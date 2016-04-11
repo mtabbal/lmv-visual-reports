@@ -41,12 +41,13 @@ var _viewerEnv = "AutodeskProduction";
 var _myAuthToken = new MyAuthToken("PROD");
 
 var _lmvModelOptions = [
-  { label : "Lusail Infrastructure (Navisworks)", 	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC9MVVMtUURTQkctQ1AwN0JaMEQtWlotTVItWFgtMDEwMDEubndk"},
+  { label : "Lusail Next MEP Navisworks", 	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC9MVVMtUURTQkctQ1AwN0JaMEQtWlotTVItWFgtMDEwMDEubndk"},
   { label : "WhiteFrog 1 NBS (Revit)",            	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC8zNjBHLUFYLTAwLVpaLU0zLUFfMDAwMS5ydnQ="},
   { label : "WhiteFrog 2 NBS (Revit)",  		urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC8zNjBHLUFYLTAwLVpaLU0zLU1fMDAwMS5ydnQ"},
   { label : "WhiteFrog 3 NBS (Revit)",  		urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC8zNjBHLUFYLTAwLVpaLU0zLVNfMDAwMS5ydnQ"},
   { label : "UCC CEE Building (revit)",           	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC9DRUVsaWdodHMucnZ0"},
   { label : "SaRang - ArchSkin (Revit)",  urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6bG12ZGJnX3Byb2QvU2FSYW5nLUFyY2gtU2tpbi0yMDE1LnJ2dA=="},
+  { label : "Lusail Previous Structural Navisworks", 	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC9MVVMtUURTQkctQ1AwN0JaWlgtWlotU0MtUE0tMDEwMDEubndk"},
 ];
 
 function blankOutReportPane() {
