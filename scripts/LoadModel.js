@@ -42,6 +42,7 @@ var _myAuthToken = new MyAuthToken("PROD");
 
 var _lmvModelOptions = [
   { label : "UCC ERi Building (revit)",           	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YWRubWFyc3VjYy9FUkktQnVpbGRpbmdfTUVQMjAxNy5ydnQ="},
+  { label : "ERi Building (Curtain Wall)",           	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YWRubWFyc3VjYy9jdXJ0YWluLXdhbGwucnZ0"},
   { label : "WhiteFrog 1 NBS (Revit)",            	urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC8zNjBHLUFYLTAwLVpaLU0zLUFfMDAwMS5ydnQ="},
   { label : "WhiteFrog 2 NBS (Revit)",  		urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC8zNjBHLUFYLTAwLVpaLU0zLU1fMDAwMS5ydnQ"},
   { label : "WhiteFrog 3 NBS (Revit)",  		urn: "dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6eW91cmJ1Y2tldC8zNjBHLUFYLTAwLVpaLU0zLVNfMDAwMS5ydnQ"},
